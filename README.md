@@ -17,3 +17,6 @@ Draw its Voronoi region based on several center points
 ## LICENSE
 
 [MIT](https://opensource.org/license/mit/)
+
+---
+![Star History Chart](https://api.star-history.com/svg?repos=LSWmaker/Voronoi&type=Date)
